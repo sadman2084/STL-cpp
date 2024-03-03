@@ -23,7 +23,7 @@ int main()
     //  }
 
     // //case 2
-    //     v.erase(v.begin() + 2); // 2nd index evalue will be deleted
+    //     v.erase(v.begin() + 2); // 2nd index value will be deleted
 
     //     for (int i = 0; i < v.size(); i++)
     //     {
